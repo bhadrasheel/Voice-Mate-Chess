@@ -7,7 +7,6 @@ A voice-assisted chess application specifically designed to assist blind individ
 </div>
 
 <br>
-<br>
 
 
 
