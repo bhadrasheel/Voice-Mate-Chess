@@ -7,5 +7,8 @@ A voice-assisted chess application specifically designed to assist blind individ
 </div>
 
 
+<div style="margin-top: 20px;">
+
 https://github.com/bhadrasheel/Voice-Mate-Chess/assets/118411958/1af9ac99-dc44-48f8-92ae-28827cf92df6
 
+</div>
